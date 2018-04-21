@@ -1,3 +1,4 @@
 rootProject.name = 'spring-demo'
 include 'spring-boot-init'
+include 'spring-boot-interceptor'
 
