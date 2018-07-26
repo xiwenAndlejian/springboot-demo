@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 作者：ganxiang <br>
+ * @author gx <br>
  * 时间：2018年04月21日 09:49<br>
  * 标题：Application<br>
  * 功能：程序入口<br>

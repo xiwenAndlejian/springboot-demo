@@ -7,6 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+ * @author gx
  * JDK8以前是通过继承HandlerInterceptorAdapter，
  * 重写其中的方法来实现拦截器的
  * JDK8特性，接口可以声明默认方法(default)以及静态方法
